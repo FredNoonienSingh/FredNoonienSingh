@@ -1,7 +1,7 @@
 # Fred Noonien Singh
 <br>
 
-##my TechStack: 
+## my TechStack: 
 
 <br>
 <div align="center">
@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="pgsql" width="100" height="100"/>
 </div>
 
-##currently learning: 
+## currently learning: 
 <br>
 
 <div align="center">
