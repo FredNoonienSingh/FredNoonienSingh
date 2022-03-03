@@ -3,11 +3,13 @@
 
 ## About me
 
-I am a german Software Engineer based in the coastel City of Wismar. 
+I am a german Software Engineer based in Wismar. 
 At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where i am learing Kotlin, Swift and Flutter. 
 
-But i am open to collab in projects or take on Projects as a Freelancer, basically i would take any excuse to fire up Pycharm 
-and wirte code in my favorite language - Python.
+<br>
+
+  Officially a TRAIN GUY ™️
+
 
 ### Tools i like 
 <div align="center">
@@ -17,19 +19,15 @@ and wirte code in my favorite language - Python.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="75" height="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="75" height="75"/>
 
-</div>
-### Favorite Music to slay Bugs to:
-<br/>
 
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm932Sqwf5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</htm>
-  
-```js
-  if you.use(spaces){
-    you.morron = True 
-  }
-```
+</div>
+<br>
+
+### Favorite Music to slay Bugs to:
+<br>
+
+[DOOM soundtrack 2016](https://www.youtube.com/watch?v=Jm932Sqwf5E&t=132s)
+
 
 ## my TechStack: 
 
@@ -59,16 +57,17 @@ and wirte code in my favorite language - Python.
 
 
 ## Things i would like to learn:
-<div aling="center">
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ts" width="75" height="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="75" height="75"/>
 
-</div>
-visit my page at: 
+ </div>
 
 www.Frederic-Baumeister.de
 <br>
+www.train-guys.com
+
 (currently down for reconstruction)
 
