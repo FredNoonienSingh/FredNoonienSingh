@@ -13,13 +13,18 @@ and wirte code in my favorite language - Python.
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" widht="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="75" heigth="75" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="75" height="75" color="white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="75" height="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="75" height="75"/>
 
 </div>
-Also:
+### Favorite Music to slay Bugs to:
+<br/>
 
+<html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm932Sqwf5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</htm>
+  
 ```js
   if you.use(spaces){
     you.morron = True 
