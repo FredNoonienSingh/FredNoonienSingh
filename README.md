@@ -1,6 +1,28 @@
 # Fred Noonien Singh
 <br>
 
+## About me
+
+I am a german Software Engineer based in the coastel City of Wismar. 
+At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where i am learing Kotlin, Swift and Flutter. 
+
+But i am open to collab in projects or take on Projects as a Freelancer, basically i would take any excuse to fire up Pycharm 
+and wirte code in my favorite language - Python.
+
+### Tools i like 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" widht="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="25" heigth="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="25" height="25"/>
+
+
+Also:
+  if you.use(spaces){
+    you.morron = true 
+  }
+
 ## my TechStack: 
 
 <br>
@@ -26,6 +48,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="100" height="100" />
 </div>
+
+
+## Things i would like to learn:
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ts" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" height="25"/>
 
 visit my page at: 
 
