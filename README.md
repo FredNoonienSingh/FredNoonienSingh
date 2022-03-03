@@ -24,11 +24,10 @@ At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where
 <br>
 
 ### Favorite Music to slay Bugs to:
-<br>
 
 [DOOM soundtrack 2016](https://www.youtube.com/watch?v=Jm932Sqwf5E&t=132s)
 
-
+<br>
 ## my TechStack: 
 
 <br>
