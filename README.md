@@ -27,6 +27,8 @@ At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where
 
 ### Favorite Music to slay Bugs to:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Doom_–_Game’s_logo.svg" alt="doom" width="200"/>
+
 [DOOM soundtrack 2016](https://www.youtube.com/watch?v=Jm932Sqwf5E&t=132s)
 
 <br>
@@ -71,9 +73,6 @@ At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where
 
  </div>
 
-www.Frederic-Baumeister.de
-<br>
 www.train-guys.com
-
 (currently down for reconstruction)
 
