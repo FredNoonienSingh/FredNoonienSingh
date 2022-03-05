@@ -27,12 +27,13 @@ At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where
 
 ### Favorite Music to slay Bugs to:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Doom_–_Game’s_logo.svg" alt="doom" width="200"/>
+<div align="center">
 
-[DOOM soundtrack 2016](https://www.youtube.com/watch?v=Jm932Sqwf5E&t=132s)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Doom_–_Game’s_logo.svg" alt="doom" width="200"/>](https://www.youtube.com/watch?v=Jm932Sqwf5E&t=132s)
 
 <br>
-
+</div>
+  
 ## my TechStack: 
 
 <br>
