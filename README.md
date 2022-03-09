@@ -4,7 +4,7 @@
 ## About me
 
 I am a german Software Engineer based in Wismar. 
-At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where i am learing Kotlin, Swift and Flutter. 
+At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where i am learing Kotlin, Swift and Flutter. 
 
 <br>
 <div align="center">
@@ -29,7 +29,7 @@ At the moment i am enrolled in a Bootcamp for Moblie Frontend Development, where
 
 <div align="center">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Doom_–_Game’s_logo.svg" alt="doom" width="200"/>](https://www.youtube.com/watch?v=Jm932Sqwf5E&t=132s)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Doom_–_Game’s_logo.svg" alt="doom" width="200"/>](https://www.youtube.com/watch?v=Jm932Sqwf5E&)
 
 <br>
 </div>
