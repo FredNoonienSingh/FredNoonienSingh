@@ -4,7 +4,7 @@
 ## About me
 
 I am a german Software Engineer based in Wismar. 
-At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where i am learing Kotlin, Swift and Flutter. 
+At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where i am learing Kotlin and Swift. 
 
 <br>
 <div align="center">
@@ -59,9 +59,8 @@ At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where
 <br>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="100" height="100" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="75" height="75" />
 </div>
 
 
