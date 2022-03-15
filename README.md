@@ -53,6 +53,8 @@ At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" height="50" width="50"/>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="pgsql" width="100" height="100"/>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Adurino" width="100", height="100"/>
 </div>
 
 ## currently learning: 
