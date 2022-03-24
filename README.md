@@ -75,6 +75,3 @@ At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where
 
  </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">www.TrainGuys.com</a>
-www.train-guys.com
-(currently down for reconstruction)
-
