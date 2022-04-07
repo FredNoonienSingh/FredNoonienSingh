@@ -9,7 +9,7 @@ At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where
 <br>
 <div align="center">
   
-  ### Officially a [TRAIN GUY](www.train-guys.com)™️
+ 
 
 </div>
 
