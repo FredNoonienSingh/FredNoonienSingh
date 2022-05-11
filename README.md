@@ -1,6 +1,8 @@
 # Fred Noonien Singh
 <br>
 
+[<img src=https://www.codewars.com/users/FredNoonienSingh/badges/large>](https://www.codewars.com/users/FredNoonienSingh)
+
 ## About me
 
 I am a german Software Engineer based in Wismar. 
