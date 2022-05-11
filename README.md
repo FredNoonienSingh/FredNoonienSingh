@@ -1,5 +1,4 @@
 # Fred Noonien Singh
-<br>
 
 [<img src=https://www.codewars.com/users/FredNoonienSingh/badges/large>](https://www.codewars.com/users/FredNoonienSingh)
 
