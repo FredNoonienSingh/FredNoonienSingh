@@ -29,15 +29,6 @@ At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where
 
 </div>
 <br>
-
-### Favorite Music to slay Bugs to:
-
-<div align="center">
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Doom_–_Game’s_logo.svg" alt="doom" width="200"/>](https://youtu.be/Jm932Sqwf5E)
-
-<br>
-</div>
   
 ## my TechStack: 
 
