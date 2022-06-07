@@ -6,9 +6,6 @@
 
  </div>
   
-## About me
-
-
 
 <br>
 <div align="center">
@@ -51,15 +48,6 @@
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Adurino" width="100", height="100"/>
 </div>
-
-## currently learning: 
-<br>
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="75" height="75" />
-</div>
-
 
 ## Things i would like to learn:
 <div align="center">
