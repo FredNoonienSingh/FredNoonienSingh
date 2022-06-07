@@ -8,8 +8,7 @@
   
 ## About me
 
-I am a german Software Engineer based in Wismar. 
-At the moment i am enrolled in a Bootcamp for mobile Frontend Development, where i am learing Kotlin and Swift. 
+
 
 <br>
 <div align="center">
