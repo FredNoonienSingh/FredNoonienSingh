@@ -61,6 +61,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" alt="julia" width="75" height="75" />
+          
 
  </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">www.TrainGuys.com</a>
