@@ -50,8 +50,6 @@
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="pgsql" width="100" height="100"/>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Adurino" width="100", height="100"/>
- <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" widht="100" height="100"/>   
 </div>
 
