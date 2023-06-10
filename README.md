@@ -45,8 +45,9 @@
 -->
           
  <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" widht="100" height="100" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" widht="100" height="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" width="100" height="100"/>
+-->
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
@@ -70,9 +71,10 @@
  </div>
  
  ## Links and Stuff 
- 
+<!-- 
 <a href="https://www.buymeacoffee.com/FNoonienSingh">BuyMeACoffee</a>
- 
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">www.CheckMeOut.com</a>
+-->
 <br>
 <a href="https://www.fredNoonienSingh.dev">www.FredNoonienSingh.dev</a>
