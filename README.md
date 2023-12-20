@@ -46,16 +46,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" widht="100" height="100"/>   
 </div>
 
-## Things i would like to learn:
-<div align="center">
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" alt="julia" width="75" height="75" />
-          
-
- </div>
  
  ## Links and Stuff 
 <!-- 
