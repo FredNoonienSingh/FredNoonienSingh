@@ -58,8 +58,8 @@
 <br>
 
   <img src="https://i.ibb.co/tB6FYmX/upsetting-with-python.png" alt="vim" width="33%"/>
-  <img src="https://i.ibb.co/xFS9LxM/rationalizing-hackjob.jpg" alt="10x" width="33%" />
   <img src="https://i.ibb.co/gM1m9bp/trivial-details.jpg" alt="dumb" width="33%"/>
+  <img src="https://i.ibb.co/xFS9LxM/rationalizing-hackjob.jpg" alt="10x" width="33%" />
  
  </div>
 <!--  
