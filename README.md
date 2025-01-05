@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-[<img src=https://www.codewars.com/users/FredNoonienSingh/badges/large>](https://www.codewars.com/users/FredNoonienSingh)
+[<img src=https://www.codewars.com/users/FredNoonienSingh/badges/large alt="badge" width=100%>](https://www.codewars.com/users/FredNoonienSingh)
 
  </div>
   
