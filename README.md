@@ -48,6 +48,13 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" widht="100" height="100"/>   
 </div>
 
+## Books i recommend
+
+<div align="center">
+  <img src="https://i.ibb.co/c6H2DHb/exiting-vim.jpg" alt="vim" width="33%"/>
+  <img src="https://i.ibb.co/HXPMGXv/10x-engineer.jpg" alt="10x" width="33%" />
+  <img src="https://i.ibb.co/0fxhDwG/implementing-dumb-features.jpg" alt="dumb" width="33%"/>
+ </div>
  
  ## Links and Stuff 
 <!-- 
