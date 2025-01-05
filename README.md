@@ -54,13 +54,18 @@
   <img src="https://i.ibb.co/c6H2DHb/exiting-vim.jpg" alt="vim" width="33%"/>
   <img src="https://i.ibb.co/HXPMGXv/10x-engineer.jpg" alt="10x" width="33%" />
   <img src="https://i.ibb.co/0fxhDwG/implementing-dumb-features.jpg" alt="dumb" width="33%"/>
- </div>
- 
- ## Links and Stuff 
-<!-- 
-<a href="https://www.buymeacoffee.com/FNoonienSingh">BuyMeACoffee</a>
 
+<br>
+
+  <img src="https://i.ibb.co/tB6FYmX/upsetting-with-python.png" alt="vim" width="33%"/>
+  <img src="https://i.ibb.co/xFS9LxM/rationalizing-hackjob.jpg" alt="10x" width="33%" />
+  <img src="https://i.ibb.co/gM1m9bp/trivial-details.jpg" alt="dumb" width="33%"/>
+ 
+ </div>
+<!--  
+ ## Links and Stuff 
+<a href="https://www.buymeacoffee.com/FNoonienSingh">BuyMeACoffee</a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">www.CheckMeOut.com</a>
--->
 <br>
 <a href="https://www.fredNoonienSingh.dev">www.FredNoonienSingh.dev</a>
+-->
