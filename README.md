@@ -1,16 +1,17 @@
-# Fred Noonien Singh
+<div align="center">
 
-<div align='center'>
+<img src="https://i.ibb.co/7pw1xgf/logolang400.png" width="100%"/>
 
-[<img src=https://www.codewars.com/users/FredNoonienSingh/badges/large alt="badge" width=100%>](https://www.codewars.com/users/FredNoonienSingh)
+</div>
 
- </div>
-  
+![Frederic's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredNoonienSingh&show_icons=true&theme=radical)
+
+## CHECK OUT:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FredNoonienSingh&repo=HarstemsAunt-SC2-AI&theme=radical)]((https://github.com/FredNoonienSingh/HarstemsAunt-SC2-AI))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FredNoonienSingh&repo=HarstemsAunt-SC2-AI&theme=radical)]((https://github.com/FredNoonienSingh/HarstemsAunt-SC2-AI))
 
 <br>
-<div align="center">
-  
- 
 
 </div>
 
@@ -51,15 +52,15 @@
 ## Books i recommend
 
 <div align="center">
-  <img src="https://i.ibb.co/c6H2DHb/exiting-vim.jpg" alt="vim" width="33%"/>
-  <img src="https://i.ibb.co/HXPMGXv/10x-engineer.jpg" alt="10x" width="33%" />
-  <img src="https://i.ibb.co/0fxhDwG/implementing-dumb-features.jpg" alt="dumb" width="33%"/>
+  <img src="https://i.ibb.co/c6H2DHb/exiting-vim.jpg" alt="vim" width="25%"/>
+  <img src="https://i.ibb.co/HXPMGXv/10x-engineer.jpg" alt="10x" width="25%" />
+  <img src="https://i.ibb.co/0fxhDwG/implementing-dumb-features.jpg" alt="dumb" width="25%"/>
 
 <br>
 
-  <img src="https://i.ibb.co/tB6FYmX/upsetting-with-python.png" alt="vim" width="33%"/>
-  <img src="https://i.ibb.co/gM1m9bp/trivial-details.jpg" alt="dumb" width="33%"/>
-  <img src="https://i.ibb.co/xFS9LxM/rationalizing-hackjob.jpg" alt="10x" width="33%" />
+  <img src="https://i.ibb.co/tB6FYmX/upsetting-with-python.png" alt="vim" width="25%"/>
+  <img src="https://i.ibb.co/gM1m9bp/trivial-details.jpg" alt="dumb" width="25%"/>
+  <img src="https://i.ibb.co/xFS9LxM/rationalizing-hackjob.jpg" alt="10x" width="25%" />
  
  </div>
 <!--  
