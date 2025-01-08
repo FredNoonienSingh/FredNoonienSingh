@@ -1,9 +1,31 @@
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrederic-baumeister-a75182211%2F)
+
 <div align="center">
 
 <img src="https://i.ibb.co/7pw1xgf/logolang400.png" width="100%"/>
 
 </div>
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffrederic-baumeister-a75182211%2F)
+
+
+<details>
+  <summary>About me</summary>
+  
+I am not done writing this text, but i am going to commit this anyway and then go to sleep, but one thing that i can tell you about me allready is that i like to spend to much time infront of my Computer and then realize that i should have be in bed allready
+
+  ### Some Python 
+  ```py
+  from time import sleep
+  
+  for i in range(1337):
+      # This would take forever to run !
+      print("yes this is just the HowTo for making a collapsing section in a GH Repo")
+      sleep(i)
+  ```
+</details>
+
+
+<br>
 
 ![Frederic's GitHub stats](https://github-readme-stats.vercel.app/api?username=FredNoonienSingh&show_icons=true&theme=radical&rank_icon=github)
 
@@ -19,16 +41,12 @@
 </p>
 
 
-## Books i recommend
+
+
+## Favorite Book
 
 <div align="center">
-  <img src="https://i.ibb.co/c6H2DHb/exiting-vim.jpg" alt="vim" width="10%"/>
-  <img src="https://i.ibb.co/HXPMGXv/10x-engineer.jpg" alt="10x" width="10%" />
-  <img src="https://i.ibb.co/0fxhDwG/implementing-dumb-features.jpg" alt="dumb" width="10%"/>
-  <img src="https://i.ibb.co/tB6FYmX/upsetting-with-python.png" alt="vim" width="10%"/>
-  <img src="https://i.ibb.co/gM1m9bp/trivial-details.jpg" alt="dumb" width="10%"/>
-  <img src="https://i.ibb.co/xFS9LxM/rationalizing-hackjob.jpg" alt="10x" width="10%" />
- 
+  <img src="https://i.ibb.co/tB6FYmX/upsetting-with-python.png" alt="vim" width="25%"/>
  </div>
 
 
