@@ -15,6 +15,8 @@ let target = {
   y: canvas.height/2
 }
 
+// Edit so i can push again for pages
+
 class Star {
   constructor() {
     this.x = Math.random() * canvas.width;
