@@ -1,0 +1,368 @@
+$color_0: #55C1D9;
+$color_1: #BA1818;
+$color_2: #6E6E6E;
+$color_3: #00F0FF;
+$color_4: #FD0000;
+$color_5: #000100;
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+/* ANIMATIONS */ 
+@keyframes popIn {
+    0%   {
+        rotate: 5deg;
+        opacity:0;
+        scale: 0.3;
+    }
+    100% {
+        rotate: 0deg;
+        opacity:1;
+        scale:1;
+    }
+}
+
+@keyframes gradient {
+    0% {
+      background-position: 50% 0%;
+    }
+    50% {
+      background-position: 50% 50%;
+    }
+    100% {
+      background-position: 50% 100%;
+    }
+}
+
+  /* CONTAINERS */
+body {
+    overflow-x: clip;
+    font-family: 'Krona One', sans-serif;
+    min-height: 150vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    background-color: $color_5;
+    color: $color_3;
+
+}
+
+
+
+.test_container{
+    position: relative; 
+    height: 100vh;
+    .test_container_2{
+        position: relative; 
+        height: 100vh;
+        h1{
+            position: fixed; 
+            top: 20%;
+            left: 50%;
+            transform: translate(-50%, -50%); 
+            text-shadow: .1em .1em $color_1; 
+            width: 100%;
+            text-align: center;
+        }
+        h2{
+            position: fixed; 
+            top: 15%;
+            left: 50%;
+            transform: translate(-50%, -50%); 
+            text-shadow: .1em .1em $color_1; 
+            width: 100%;
+            text-align: center;
+        } 
+    }
+    .test_logo{
+        position: fixed; 
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+        filter: drop-shadow(.125em .125em $color_1);
+    }
+    h1{
+        position: fixed; 
+        top: 75%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+        text-shadow: .1em .1em $color_1; 
+        width: 100%;
+        text-align: center;
+    }
+}
+
+canvas {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100vw; 
+    height: 100vh;
+    display: block;
+    z-index: -1;
+  }
+
+  Header{
+    color: $color_0;
+    background-color: $color_5;
+    width: 100vw;
+    border-bottom: 1px solid $color_3;
+    box-shadow: 0 10px 10px 0px $color_5;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    
+    .innerHeader{
+        margin-top: 1em;
+        margin-left: 1em;
+        height: 100%;
+        padding-top: 0;
+
+        .innerInner{
+            color:$color_3;
+            display: flex;
+            padding: 1.5em;
+            flex-direction: column;
+            justify-content: baseline;
+            width: 50%;
+
+            h1{
+                margin-bottom: 0;
+                margin-top: 1em;
+                margin-left: -3em;
+                text-shadow: .1em .1em $color_1;
+                z-index: 1;
+                overflow: hidden;
+            }
+
+            h2{
+                margin-top: 0;
+                font-size: larger;
+                text-shadow: .1em .1em $color_1;
+                z-index: 1;
+            }
+            hr{
+                color:$color_3;
+            }
+        }
+        img{
+            float: left;
+            height: 10em; 
+            width: auto;
+            z-index: -1;
+            filter: drop-shadow(.125em .125em $color_1);
+        }
+    }
+    .navbar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        height: fit-content;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+
+        button{
+            font-family: 'Krona One', sans-serif;
+            font-size: 1em;
+            margin: 0;
+            background-color: $color_5;
+            color:$color_3;
+            width:33%;
+            border-radius: 0;
+            border:none //.1em solid $color_0;
+        }
+        button:hover{
+            background-color: $color_3;
+            color:$color_5;
+        }
+    }
+}
+
+main{
+    padding: .1em;
+    min-height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    overflow-wrap: anywhere;
+
+    .about{
+        width: 100%;
+        margin-bottom: 3em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-flow: wrap;
+        overflow-wrap: anywhere;
+
+        .inner_subsection{
+            width: 80%;
+            justify-self: center;
+        }
+    }
+
+    .skills{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-flow: wrap;
+        overflow-wrap: anywhere;
+        margin-bottom: 20vh;
+    }
+
+    .projects{
+        width: 100%;
+    }
+
+    .about_banner{
+        background-image: url("../res/banner_image.jpeg");
+    }
+
+    .skills_banner{
+        background-image: url("../res/banner_image_2.jpeg"); 
+    }
+
+    .projects_banner{
+        background-image: url("../res/banner_image.jpeg");
+    }
+
+    .banner{
+        width: 100%;
+        min-height:2em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-repeat: repeat;
+        background-size: cover;
+        background-position: 10% 50%;
+        padding: 0;
+        box-shadow: 1px 1px 10px 2px $color_1;
+        margin-top: 1em;
+        //animation: gradient 6s linear infinite;
+
+        h2{
+            color: $color_0;
+            height: 100%;
+            padding: 1em;
+            margin: 0;
+            font-size: 3em;
+            text-align: center;
+            text-shadow: .1em .1em $color_1;
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+        }
+
+        img{
+            width: 100%;
+            height: auto;
+            opacity: 0.75;
+            overflow: hidden;
+        }
+    }
+
+    .section{
+        min-height: 25vh;
+        width: 10vh;
+        //background-image: url("../res/LogoTri.svg");
+        //background-size: contain;
+        //background-repeat: no-repeat;
+        margin: 1em;
+        min-width: 80%;
+        border: 1px solid $color_5;
+        background-position: 50% 50%;
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        background-color: rgba(white, 0.1); 
+        box-shadow: 1px 1px 1px 1px $color_1;
+
+        h2{
+            color:$color_3;
+            margin-left: 1em;
+            text-shadow: .1em .1em $color_1;
+        }
+
+        h3{
+            color: $color_4;
+            margin-left: 2em;
+            text-shadow: .1em .1em $color_5;
+        }
+
+        img{
+            margin: 1em;
+            float: left;
+            height: 5em; 
+            width: auto;
+            z-index: -1;
+        }
+
+        .innerContainer{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            min-height: 20vh;
+            padding: 1em;
+
+            
+            .video_container{
+                margin: 0;
+                height: 100%;
+                width: fit-content;
+
+                .iframe{
+                    height: 1920px;
+                    width: auto;
+                }
+            }
+            .text_container{
+                margin: 1em;
+                min-width: 20em;
+            }
+        }
+
+    }
+    .section:nth-child(odd) { 
+        margin-left: auto; 
+      }
+}
+
+footer{
+    margin-top: auto;
+    height: fit-content;
+    width: 100%;
+    background-color: $color_5;
+    color: $color_3;
+    border-top: 1px solid $color_3;
+    box-shadow: 10px 0 10px -2px $color_5;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+
+    h3{
+        margin-left: 2em;
+    }
+
+    p{
+        margin-left: 5em;
+        font-size: smaller;
+    }
+
+    .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+        span{
+            padding: 1em;
+            margin-left: 3em;
+            margin-right: 3em;
+            i{
+                font-size: 2em;
+                color: $color_3;
+            }
+            i:hover{
+                text-shadow: .1em .1em $color_1;
+            }
+        }
+    }
+}
