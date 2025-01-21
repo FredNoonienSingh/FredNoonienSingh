@@ -55,16 +55,32 @@ body {
         position: relative; 
         height: 100vh;
         h1{
-            position: fixed; 
+            font-size: xx-large;
+            max-width: 100%; 
+            position: fixed;
+            overflow: clip;
             top: 20%;
             left: 50%;
             transform: translate(-50%, -50%); 
             text-shadow: .1em .1em $color_1; 
             width: 100%;
             text-align: center;
+
         }
+        @media (max-width: 768px) { 
+            h1 {
+              font-size: larger; 
+            }
+          }
+          
+          @media (max-width: 480px) { 
+            h1 {
+              font-size: medium; 
+            }
+          }
         h2{
-            position: fixed; 
+            font-size: large;
+            position: fixed;
             top: 15%;
             left: 50%;
             transform: translate(-50%, -50%); 
@@ -81,6 +97,7 @@ body {
         filter: drop-shadow(.125em .125em $color_1);
     }
     h1{
+        font-size: large;
         position: fixed; 
         top: 75%;
         left: 50%;
